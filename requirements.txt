@@ -4,6 +4,7 @@ python-dotenv
 streamlit
 langchain_community
 langserve
+langchain_ollama
 fastapi
 uvicorn
 sse_starlette
@@ -19,5 +20,6 @@ wikipedia
 arxiv
 langchainhub
 sentence_transformers
+langchain
 PyPDF2
 langchain-objectbox
