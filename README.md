@@ -1,4 +1,5 @@
-## Langchain_tutorials
+# Langchain_tutorials
 
-# The tutorials, code are part of my self-learning journey. 
-# credit : Krish Naik https://www.youtube.com/@krishnaik06
+### The tutorials, code are part of my self-learning journey. 
+### Credit : Krish Naik 
+### Link - https://www.youtube.com/@krishnaik06
